@@ -1,0 +1,5 @@
+Left shift key + mouse move--->draw block
+Lbutton---->To clear block
+Lctrl+Lbutton----> To create source block
+Lctrl+Lshift+Lbutton---to create destination block
+space to find the path from source to destination
